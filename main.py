@@ -9,3 +9,5 @@ e = d - 4
 print(f"{e = }")
 f = e / 2
 print(f"{f = }")
+g = f ** 2
+print(f"{g = }")
