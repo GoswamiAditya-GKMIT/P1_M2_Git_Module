@@ -1,0 +1,2 @@
+a = "prafful"
+print(a)
