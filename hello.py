@@ -9,3 +9,6 @@ greeting(b)
 
 c = "hello world"
 greeting(c)
+
+d = "hello python"
+greeting(d)
