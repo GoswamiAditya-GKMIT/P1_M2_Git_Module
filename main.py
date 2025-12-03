@@ -19,3 +19,5 @@ j = i + 10
 print(f"{j = }")
 k = j - 5
 print(f"{k = }")
+l = k * 3
+print(f"{l = }")
