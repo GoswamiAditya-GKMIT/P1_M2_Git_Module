@@ -12,6 +12,3 @@ greeting(c)
 
 d = "hello python"
 greeting(d)
-
-e = "hello developer"
-greeting(e)
