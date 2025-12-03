@@ -11,3 +11,5 @@ f = e / 2
 print(f"{f = }")
 g = f ** 2
 print(f"{g = }")
+h = g % 3
+print(f"{h = }")
