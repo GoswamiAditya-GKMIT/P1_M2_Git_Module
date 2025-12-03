@@ -1,4 +1,4 @@
-git restore                                 
-git reset                               
-git checkout <commit-hash>                  
-git revert                                      
+git restore
+git reset
+git checkout <commit-hash>
+git revert 
