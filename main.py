@@ -17,3 +17,5 @@ i = h // 1
 print(f"{i = }")
 j = i + 10
 print(f"{j = }")
+k = j - 5
+print(f"{k = }")
