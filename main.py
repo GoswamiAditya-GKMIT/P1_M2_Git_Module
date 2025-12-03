@@ -13,3 +13,5 @@ g = f ** 2
 print(f"{g = }")
 h = g % 3
 print(f"{h = }")
+i = h // 1
+print(f"{i = }")
