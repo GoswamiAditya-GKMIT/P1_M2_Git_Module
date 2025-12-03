@@ -1,0 +1,2 @@
+a = "gkmit"
+print(a)
