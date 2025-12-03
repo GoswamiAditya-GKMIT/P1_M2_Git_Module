@@ -4,3 +4,4 @@ d = "apple watch"
 print(b)
 print(c)
 print(d)
+print(b + ", " + c + ", " + d)
