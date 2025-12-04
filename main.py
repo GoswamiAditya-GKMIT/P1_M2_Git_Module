@@ -21,3 +21,5 @@ k = j - 5
 print(f"{k = }")
 l = k * 3
 print(f"{l = }")
+m = l / 2
+print(f"{m = }")
